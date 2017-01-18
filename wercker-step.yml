@@ -1,0 +1,7 @@
+name: octogray-deploy
+version: 0.0.1
+description: Step to deploy Octopress site with octogray theme to GitHub pages
+keywords:
+  - Octopress
+  - GitHub Pages
+  - deploy
